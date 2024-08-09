@@ -1,0 +1,24 @@
+Próximos passos:
+
+1 - Finalizar métodos no EnderecoDao - Precisa testar todos, porém dependem do front
+
+2 - Desenhar a ideia das telas - em andamento (Telas: Contato -> Cadastrar done, Listar done, Buscar done, Alterar e Deletar. Cidade -> Listar. Endereco -> Listar.)
+    (criar a tela para alterar dados de um cadastro.)
+
+3 - Deixar as telas bonitas:
+    3.1 - Adicionar retornos das ações (ex.: cadastro concluído com sucesso. Erro ao cadastrar...).
+    3.2 - Botão refresh para o PanelListarContato.
+    3.3 - Botão para fechar as abas dos painéis abertos.
+
+4 - Bugs
+    4.1 - Filtragem está case sensitive
+
+
+
+
+
+
+
+
+
+
